@@ -12,4 +12,4 @@ _読めと言っているでしょう_
 
 [えさ](https://ouxt-polaris.esa.io/posts/666)
 
-!頭文字D(https://github.com/reo-kyutech/re_M5GPS/blob/main/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97.jpg)
+!頭文字D("C:\Users\LEO\OneDrive\画像\スクリーンショット\デスクトップ.jpg")
